@@ -1,15 +1,26 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: PETA
-  role: Volunteer
-  year: 2001 &mdash; 2010
-  url: https://www.peta.org/
-  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+- organization: Rotary Club:\ Rotaract
+  role: Prospect
+  year: 2024 &mdash; Present
+  url: https://www.rotary.org/es/get-involved/rotaract-clubs
+  summary: Collaborating in the organization and implementation of social initiatives focused on community and environmental well-being. These experiences strengthened my teamwork, leadership, and community project management skills..
 
+- organization: Spirits
+  role: Member
+  year: 2024 &mdash; Present
+  url: https://www.heforshe.org/en
+  summary: Planning, coordination, and dissemination of events for the benefit of the student community.
 
-- organization: Yale Amnesty International
-  role: Communications coordinator
-  year: 2002 &mdash; 2004
-  url: http://campuspress.yale.edu/amnesty/
-  summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+- organization: HeForShe
+  role: Member
+  year: 2023 &mdash; 2024
+  url: https://www.heforshe.org/en
+  summary: Student group that promotes gender equality.
+
+- organization: Rotary Club:\ Interact
+  role: Member
+  year: 2022 &mdash; 2023
+  url: https://www.rotary.org/es/get-involved/interact-clubs
+  summary: I actively contributed to charitable and social impact activities.
