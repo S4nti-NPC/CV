@@ -104,7 +104,13 @@
           <p class="resume-item-copy" itemprop="description">
             <ul class="resume-item-list">
               {% for award in education.awards %}
-              <li>{{ award.award }}</li>
+              <li>
+                {% if award.link %}
+                  <a href="{{ award.link }}" target="_blank">{{ award.award }}</a>
+                {% else %}
+                  {{ award.award }}
+                {% endif %}
+              </li>
               {% endfor %}
             </ul>
 
